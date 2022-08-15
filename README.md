@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# RUBY
+- Ruby is a dynamic object-oriented, general-purpose programming language.
+- was developed by **yukihiro "Matz" Matsumoto** in Japan in mid-1990s.
+- it's mostly used in web development.
+- most popular implementation is with the powerful<b> Ruby on Rails </b>framework.
 
 ## Available Scripts
 
